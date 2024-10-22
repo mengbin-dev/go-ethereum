@@ -6,7 +6,7 @@
 
 GOBIN = ./build/bin
 GO ?= latest
-GORUN = go1.22.7 run
+GORUN = go run
 
 #? geth: Build geth
 geth:
